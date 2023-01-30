@@ -1,1 +1,4 @@
 theme: minima
+
+prose:
+	siteurl: https://wesmith4.github.io
